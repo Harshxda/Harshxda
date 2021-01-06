@@ -4,7 +4,7 @@ I'm a part time open source developer and cybersecurity researcher from India!
 
 ## :headphones: Spotify Playing
 
-[<img src="https://novatorem-chi-roan.vercel.app/api/spotify" alt="Harsh Spotify Playing" width="350" />](https://open.spotify.com/user/harshxda)
+[![Spotify](https://gitspo.vercel.app/api/spotify)](https://open.spotify.com/user/harshxda)
 
 ### Connect with me:
 
