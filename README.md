@@ -2,7 +2,9 @@
 
 I'm a part time open source developer and cybersecurity researcher from India!
 
-[<img align="left" alt="harshxingh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+### Connect with me:
+
+[<img align="left" alt="harshxingh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/twitter.svg" />][twitter]
 
 ## :headphones: Spotify Playing
 
