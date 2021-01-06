@@ -8,7 +8,7 @@ I'm a part time open source developer and cybersecurity researcher from India!
 
 ### Connect with me:
 
-[<img align="left" alt="harshxingh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.5.0/icons/twitter.svg" />][twitter]
+[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/harshxingh) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshxda)
 
 <br />
 
