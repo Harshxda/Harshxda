@@ -1,6 +1,6 @@
 # Hi, I'm Harsh Singh (:coffee::computer:)
 
-I'm a part time open source developer and cybersecurity researcher from India!
+I'm a part time open source developer and Cybersecurity Analyst from India!
 
 ## :headphones: Spotify Playing
 
